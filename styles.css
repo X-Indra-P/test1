@@ -7,7 +7,7 @@ body, h1, h2, h3, p, ul, li {
 /* Set a background color and font styles for the entire page */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #FBECB2;
     color: #333;
     line-height: 1.6;
 }
@@ -17,7 +17,7 @@ body {
 
 /* Style the logo and navigation bar */
 header {
-    background-color: #333;
+    background-color: #F99417;
     color: #fff;
     padding: 20px 0;
     display: flex;
@@ -71,7 +71,7 @@ nav a:hover {
 .cta-button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #333;
+    background-color: #F99417;
     color: #fff;
     text-decoration: none;
     margin-top: 20px;
@@ -98,7 +98,7 @@ nav a:hover {
 
 /* Style the features section */
 .features {
-    background-color: #fff;
+    background-color: #FBECB2;
     padding: 50px 0;
 }
 
@@ -119,7 +119,7 @@ nav a:hover {
 /* Style the footer */
 footer {
     text-align: center;
-    background-color: #333;
+    background-color: #F99417;
     color: #fff;
     padding: 10px 0;
 }
